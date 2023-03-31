@@ -5,9 +5,9 @@
 - 🥅 The goal for 2023 is to reach the Programmer Level 4 coding test.
 - ⚡ I love dancing and code reviews.
 
-<div style="display: flex, height:200px">
-<img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=taejin-k&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="TJ's github stats" />
-<img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taejin-k&layout=compact&theme=nord&hide_border=true" />
+<div style="display: flex, height:195px">
+<img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api?username=taejin-k&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="TJ's github stats" />
+<img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taejin-k&layout=compact&theme=nord&hide_border=true" />
 </div>
 <br />
 
