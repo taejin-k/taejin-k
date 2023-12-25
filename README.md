@@ -2,7 +2,7 @@
 ### Welcome to TJ's Github 
 
 - 🌱 I’m currently interested in `React` `Next` `Typescript`
-- 🥅 The goal for 2023 is to reach the Programmer Level 4 coding test.
+- 🥅 The goal for 2024 is to reach the Programmer Level 4 coding test.
 - ⚡ I love dancing and code reviews.
 
 <div style="display: flex, height:195px">
